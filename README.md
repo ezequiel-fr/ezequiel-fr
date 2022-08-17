@@ -1,16 +1,43 @@
-### Hi there 👋
+<link href="https://fonts.googleapis.com/css?family=Poppins" rel="stylesheet" />
 
-<!--
-**TheRedMineTheRedMine/TheRedMineTheRedMine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 style="font-family:'Poppins'">
+    Ezequiel Dev<br />
+    <span style="font-size: 1rem; font-weight: 400">alias (TheRedMine TheRedMaths)</span>
+</h1>
 
-Here are some ideas to get you started:
+```ts
+class Ezequiel extends Dev {
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    private skills: Array<string> = [];
+
+    private portfolioURL: string = "https://theredminetheredmine.github.io/temp-portfolio";
+
+
+    constructor() {
+        super();
+        this.getSkills();
+    }
+
+
+    private getSkills(): void {
+        [
+            'developper',
+            'software engineer',
+            'translater',
+        ].forEach(a => this.skills.push(a));
+    }
+
+
+    /**
+     * Get my URL Portfolio
+     * @returns {string}
+     */
+
+    public getPortfolio = (): string => this.portfolioURL;
+
+}
+
+export default Ezequiel;
+```
+
+My Portfolio → [here](https://theredminetheredmine.github.io/tmp_portfolio)
