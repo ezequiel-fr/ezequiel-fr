@@ -1,9 +1,4 @@
-<link href="https://fonts.googleapis.com/css?family=Poppins" rel="stylesheet" />
-
-<h1 style="font-family:'Poppins'">
-    Ezequiel Dev<br />
-    <span style="font-size: 1rem; font-weight: 400">alias (TheRedMine TheRedMaths)</span>
-</h1>
+# Ezequiel Dev <br /><span style="font-size: 1rem">alias TheRedMine TheRedMaths</span>
 
 ```ts
 class Ezequiel extends Dev {
