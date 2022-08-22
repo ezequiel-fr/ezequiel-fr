@@ -4,15 +4,12 @@
 class Ezequiel extends Dev {
 
     private skills: Array<string> = [];
-
     private portfolioURL: string = "https://theredminetheredmine.github.io/temp-portfolio";
-
 
     constructor() {
         super();
         this.getSkills();
     }
-
 
     private getSkills(): void {
         [
@@ -22,14 +19,11 @@ class Ezequiel extends Dev {
         ].forEach(a => this.skills.push(a));
     }
 
-
     /**
      * Get my URL Portfolio
      * @returns {string}
      */
-
     public getPortfolio = (): string => this.portfolioURL;
-
 }
 
 export default Ezequiel;
