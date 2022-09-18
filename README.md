@@ -6,7 +6,7 @@
 class Ezequiel extends Dev {
 
     private skills: Array<string> = [];
-    private portfolioURL: string = "https://theredminetheredmine.github.io/temp-portfolio";
+    private portfolioURL: string = "https://theredminetheredmine.github.io/portfolio";
 
     constructor() {
         super();
@@ -36,4 +36,4 @@ export default Ezequiel;
 
 <br>
 
-My Portfolio → [here](https://theredminetheredmine.github.io/tmp_portfolio)
+My Portfolio → [here](https://theredminetheredmine.github.io/portfolio)
