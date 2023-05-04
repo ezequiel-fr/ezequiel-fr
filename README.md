@@ -1,4 +1,5 @@
-# ezequiel-fr <br /><span style="font-size: 1rem">alias Ezequiel Dev</span>
+# ezequiel-fr
+### alias Ezequiel Dev
 
 ```ts
 class Ezequiel extends Dev {
