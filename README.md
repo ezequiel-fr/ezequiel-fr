@@ -1,39 +1,37 @@
-# Ezequiel Dev <br /><span style="font-size: 1rem">alias TheRedMine TheRedMaths</span>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRedMineTheRedMine&layout=compact&bg_color=30,467,469&title_color=fff&text_color=ddd&hide_border=true&border_radius=10)](https://github.com/TheRedMineTheRedMine/github-readme-stats)
+# ezequiel-fr <br /><span style="font-size: 1rem">alias Ezequiel Dev</span>
 
 ```ts
 class Ezequiel extends Dev {
-
-    private skills: Array<string> = [];
-    private portfolioURL: string = "https://theredminetheredmine.github.io/portfolio";
+    private skills: string[] = [];
+    private portoflio: string = "https://ezequiel-fr.github.io/";
 
     constructor() {
         super();
-        this.getSkills();
+        this.skills();
     }
 
-    private getSkills(): void {
+    protected get skills(): void {
         [
+            ...this.skills,
             'developper',
             'software engineer',
             'translater',
-        ].forEach(a => this.skills.push(a));
+        ].forEach(e => this.skills.push(e));
     }
 
     /**
      * Get my URL Portfolio
      * @returns {string}
      */
-    public getPortfolio = (): string => this.portfolioURL;
+    public get portfolio = (): string => this.portfolio;
 }
 
 export default Ezequiel;
 ```
 <br>
 
-![TheRedMineTheRedMine's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheRedMineTheRedMine&show_icons=true&bg_color=30,467,469&title_color=fff&text_color=ddd&hide_border=true&border_radius=10)
+![Ezequiel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezequiel-fr&show_icons=true&bg_color=30,467,469&title_color=fff&text_color=ddd&hide_border=true&border_radius=10)
 
 <br>
 
-My Portfolio → [here](https://theredminetheredmine.github.io/portfolio)
+My Portfolio → [here](https://ezequiel-fr.github.io/)
