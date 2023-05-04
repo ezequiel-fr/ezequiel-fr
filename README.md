@@ -1,5 +1,4 @@
-# ezequiel-fr
-#### Alias Ezequiel Dev
+# ezequiel-fr <span style="font-size: 1rem">(alias Ezequiel Dev)</span>
 
 <hr>
 
