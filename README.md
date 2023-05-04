@@ -1,5 +1,7 @@
 # ezequiel-fr
-### alias Ezequiel Dev
+#### Alias Ezequiel Dev
+
+<hr>
 
 ```ts
 class Ezequiel extends Dev {
