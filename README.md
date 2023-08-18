@@ -37,3 +37,7 @@ export default Ezequiel;
 <br>
 
 My Portfolio → [here](https://ezequiel-fr.github.io/)
+
+<hr>
+
+![visits](https://profile-counter.glitch.me/%7Bezequiel-fr%7D/count.svg)
