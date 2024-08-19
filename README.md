@@ -36,7 +36,7 @@ export default Ezequiel;
 
 <br>
 
-My Portfolio → [here](https://ezequiel-fr.github.io/)
+My Portfolio → [here](https://ezequiel-fr.fr/)
 
 <hr>
 
