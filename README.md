@@ -5,7 +5,7 @@
 ```ts
 class Ezequiel extends Dev {
     private skills: string[] = [];
-    private portoflio: string = "https://ezequiel-fr.github.io/";
+    private portoflio: string = "https://ezequiel-fr.fr/";
 
     constructor() {
         super();
