@@ -51,11 +51,11 @@ Passionné par les **sciences, l'aéronautique et l'informatique**, je mets tout
 - **Proche de Moi** - Développement fullstack (TypeScript)
 - **25+ Projets Personnels** - Applications web, mobiles et automatisations
 
-👉 [Découvrez tous mes projets](https://ezequiel-fr.fr/#projects)
+> [Découvrez tous mes projets](https://ezequiel-fr.fr/#projects)
 
 ---
 
-## 🎓 Formation
+## Formation
 
 - **CPGE - MPI** (Mathématiques, Physique, Informatique) - Lycée Henri Poincaré *2024 - Aujourd'hui*
 - **Baccalauréat Général** - LPO Étienne Oehmichen *2021 - 2024* (Mention bien)
