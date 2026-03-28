@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ezequiel FRIDEL ESCALONA - Portfolio
+# Ezequiel FRIDEL ESCALONA
 
 ### Développeur Web | Passionné par l'Innovation
 
