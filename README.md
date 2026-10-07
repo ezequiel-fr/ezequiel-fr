@@ -14,7 +14,8 @@
 
 ## À propos de moi
 
-Je suis un développeur français basé à Nancy, spécialisé dans la création d'**applications web modernes et réactives**. Étudiant en classe préparatoire (CPGE - MPI), je combine apprentissage académique rigoureux et expérience pratique autodidacte.
+Je suis un développeur français basé à Lannion, spécialisé dans la création d'**applications web modernes et réactives** et de **conceptions électroniques et mécaniques sur mesure**.
+Étudiant en école d'ingénieur informatique, je combine apprentissage académique rigoureux et expérience pratique autodidacte.
 
 Passionné par les **sciences, l'aéronautique et l'informatique**, je mets tout mon engagement dans la création de solutions efficaces avec une expérience utilisateur exceptionnelle.
 
