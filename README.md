@@ -57,7 +57,8 @@ Passionné par les **sciences, l'aéronautique et l'informatique**, je mets tout
 
 ## Formation
 
-- **CPGE - MPI** (Mathématiques, Physique, Informatique) - Lycée Henri Poincaré *2024 - Aujourd'hui*
+- **Formation d'Ingénieur sous Statut Étudiant en Informatique des Systèmes Embarqués** - ENSSAT, Lannion *2026 - 2029*
+- **CPGE - MPI** (Mathématiques, Physique, Informatique) - Lycée Henri Poincaré *2024 - 2026*
 - **Baccalauréat Général** - LPO Étienne Oehmichen *2021 - 2024* (Mention bien)
 - **Cambridge English Certificate (B2)** - *2023 - 2024*
 
